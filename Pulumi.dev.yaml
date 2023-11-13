@@ -1,0 +1,9 @@
+config:
+  aws:profile: michael
+  aws:region: us-east-1
+  aws:defaultTags:
+    tags:
+      user:Company: "company"
+      user:CostCenter: "112233"
+      user:Team: Ops 
+
